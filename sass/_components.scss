@@ -446,3 +446,17 @@
 		z-index: 1;
 	}
 }
+
+////////////////////////////////////////////////////////////////////
+// CALL TO ACTION
+.cta {
+	padding: 3.5rem 0;
+	text-align: center;
+
+	&__book {
+		font-size: 2rem;
+		text-transform: uppercase;
+		font-weight: 300;
+		margin-bottom: 2.5rem;
+	}
+}
